@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\bin\Debug\problem1.exe.config
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\bin\Debug\problem1.exe
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\bin\Debug\problem1.pdb
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\obj\Debug\problem1.exe
+C:\Users\Orange\Desktop\Problem-Solving\problem1\problem1\obj\Debug\problem1.pdb
